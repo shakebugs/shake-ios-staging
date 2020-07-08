@@ -3,8 +3,6 @@
 // Copyright © 2020 Shake Technologies, Inc. All rights reserved.
 //
 
-// TODO: Check if class and property names are OK for v10.0.0
-
 /// Used to configure an individual report before submitting it, ex. leave out some data or display a toast on success
 NS_SWIFT_NAME(ShakeReportConfiguration)
 @interface SHKShakeReportConfiguration : NSObject

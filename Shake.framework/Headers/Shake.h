@@ -1,6 +1,6 @@
-// TODO: Put www.shakebugs.com link or some info about Shake here:
 //
-//  Copyright © 2018 Shake Technologies, Inc. All rights reserved.
+//  Copyright © 2020 Shake Technologies, Inc. All rights reserved.
+//  https://www.shakebugs.com
 //
 
 #import <Foundation/Foundation.h>
