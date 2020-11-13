@@ -15,9 +15,6 @@ NS_ASSUME_NONNULL_BEGIN
 NS_SWIFT_NAME(ShakeReportData)
 @interface SHKShakeReportData : NSObject <NSCoding, NSSecureCoding>
 
-/// Additional data to be attached to the report.
-@property (nonatomic, strong, nullable) NSString *quickFacts; // public/deprecated
-
 /// Files to be uploaded with the report.
 @property (nonatomic, strong, nullable) NSArray <SHKShakeFile *> *attachedFiles;
 

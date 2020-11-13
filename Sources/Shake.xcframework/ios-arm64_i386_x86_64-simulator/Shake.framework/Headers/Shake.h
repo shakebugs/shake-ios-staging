@@ -98,4 +98,7 @@ __attribute__((unavailable("Use 'Shake.onPrepareReportData' instead.")));
 + (void)stop
 __attribute__((unavailable("Use 'Shake.isPaused = true' instead.")));
 
++ (void)setMetadataWithKey:(nonnull NSString *)key value:(nullable NSString *)value
+NS_SWIFT_NAME(setMetadata(key:value:));
+
 @end
