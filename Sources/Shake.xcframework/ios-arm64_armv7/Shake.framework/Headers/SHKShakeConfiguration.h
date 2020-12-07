@@ -7,6 +7,9 @@
 NS_SWIFT_NAME(ShakeConfiguration)
 @interface SHKShakeConfiguration : NSObject
 
+/// Automatic network request redaction based on keywords (regular expressions)
+@property (nonatomic, assign) BOOL isSensitiveDataRedactionEnabled;
+
 /// Creates and displays a UI button that invokes Shake on tap. Button floats above all elements.
 @property (nonatomic) BOOL isFloatingReportButtonShown;
 
@@ -25,8 +28,29 @@ NS_SWIFT_NAME(ShakeConfiguration)
 /// Shake will record certain events on device like User tap events, network events, view controllers and app state changes.
 @property (nonatomic) BOOL isActivityHistoryEnabled;
 
+///If enabled, a one-off intro message will be shown to a user as soon as they open up your app for the first time.
+@property (nonatomic) BOOL setShowIntroMessage;
+
 /// There will be a button on Shake report window leading to the "Inspect Report" screen
 @property (nonatomic, assign) BOOL isInspectScreenEnabled;
+
+/// The user can choose the feedback type.
+@property (nonatomic, assign) BOOL isFeedbackTypeEnabled;
+
+@property (nonatomic, assign) BOOL isFloatingInspectButtonShown;
+
+/// to capture console log or not
+@property (nonatomic, assign) BOOL isConsoleLogsEnabled;
+
+// Can Shake capture apps screen and audio and record into movie file
+@property (nonatomic, assign) BOOL isAutoVideoRecordingEnabled;
+@property (nonatomic, assign) int autoVideoRecordingClipDuration;
+
+/// Should email text field appear on Wrap-up screen?
+@property (nonatomic, assign) BOOL isEmailFieldEnabled;
+
+/// Default email to appear on Wrap-up screen, if needef
+@property (nonatomic, strong) NSString* emailField;
 
 - (instancetype)init
 __attribute__((unavailable("Access 'Shake.configuration' directly instead.")));

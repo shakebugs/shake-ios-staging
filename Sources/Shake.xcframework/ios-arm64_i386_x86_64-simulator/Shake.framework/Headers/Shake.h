@@ -8,6 +8,8 @@
 #import "SHKShakeConfiguration.h"
 #import "SHKShakeReportConfiguration.h"
 #import "SHKShakeReportData.h"
+#import "SHKNetworkRequestEditor.h"
+#import "SHKNotificationEventEditor.h"
 
 //! Project version number for Shake.
 FOUNDATION_EXPORT double ShakeVersionNumber;
@@ -33,6 +35,12 @@ typedef NS_ENUM(NSUInteger, LogLevel) {
 
 ///Add additional data and files to the report object provided by the block.
 @property (nullable, class, nonatomic) SHKShakeReportData *_Nonnull (^onPrepareReportData)(SHKShakeReportData * _Nonnull reportData);
+
+///Privacy - Network requests filter
+@property (nullable, class) SHKNetworkRequestEditor * _Nullable (^networkRequestsFilter)(SHKNetworkRequestEditor * _Nonnull);
+
+///Privacy - Notification event filter
+@property (nullable, class) SHKNotificationEventEditor * _Nullable (^notificationEventsFilter)(SHKNotificationEventEditor * _Nonnull);
 
 ///Shake bundle
 @property (nonnull, class, readonly) NSBundle *bundle;
@@ -69,6 +77,17 @@ NS_SWIFT_NAME(log(_:_:));
 /// Adds a custom log entry to Activity History with debug level
 + (void)logWithMessage:(NSString * __nonnull)message
 NS_SWIFT_NAME(log(_:));
+
+// MARK: Privacy
+
+/// Adds private UIView/UIViewController  entry to Activity History
++ (void)addPrivateView:(nullable id)view;
++ (void)removePrivateView:(nullable id)view;
+
++ (void)addPrivateViewController:(nullable id)viewController;
++ (void)removePrivateViewController:(nullable id)viewController;
+
++ (void)clearPrivateViews;
 
 // MARK: - Deprecated
 

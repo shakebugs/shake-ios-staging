@@ -21,6 +21,7 @@ NS_SWIFT_NAME(ShakeFile)
  Contents (NSData) of the file to upload
  */
 @property (nonatomic, strong, nonnull) NSData *data;
+@property (nonatomic, strong, nullable) NSURL *url;
 
 /**
  Initializes the ShakeFile object with name and data to upload.
