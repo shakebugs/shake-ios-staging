@@ -66,11 +66,11 @@
 		</data>
 		<key>Headers/Shake.h</key>
 		<data>
-		XzlWq01E+AiXRqLVTRiY8QFB6Hc=
+		ZkIXbLQOtNswnyaPkX9vWN0TGao=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m5RqHf9IlQKlZbdodusDvgHZVQc=
+		nFPz5o4jRAZC9Msq1d9urbZgCKU=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -142,11 +142,11 @@
 		</data>
 		<key>SHKAlertVC.storyboardc/SHKAlertVC.nib</key>
 		<data>
-		I+njMDW8jQJoTkLe9Qjvj250weA=
+		ne1if5LvIfAQeGR9EtVRmW3thS8=
 		</data>
 		<key>SHKAlertVC.storyboardc/Sbx-N3-edu-view-CTk-h5-fo7.nib</key>
 		<data>
-		CYFsWIur1FF64mVzTMsrgJNF76U=
+		3pzHEDwY+lYI38Pr1d3fvNVNyVg=
 		</data>
 		<key>SHKInspectBugStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -154,11 +154,11 @@
 		</data>
 		<key>SHKInspectBugStoryboard.storyboardc/SHKInspectBugVC.nib</key>
 		<data>
-		KL7duxvTV+B7PwmzHzdUd/HyGuE=
+		gUCcdW74Wwfyy+WZKhziipF0Fvo=
 		</data>
 		<key>SHKInspectBugStoryboard.storyboardc/niA-iC-r0S-view-OYS-6A-hUU.nib</key>
 		<data>
-		+9nsqTZFp6u+f/kFtJDJmdjlZ24=
+		XxlhgMcsOD8+8ZEOkuAKclauJ5I=
 		</data>
 		<key>SHKReportComposeStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>SHKReportComposeStoryboard.storyboardc/SHKReportComposeViewController.nib</key>
 		<data>
-		2Hu6/AGebLIV+v23Uuqwa2pnTRQ=
+		PWMwN+6aF9Go6NriAk5PFysN0GA=
 		</data>
 		<key>SHKReportComposeStoryboard.storyboardc/WZs-Rq-UvM-view-dqD-j9-Zwh.nib</key>
 		<data>
-		LW3AjNsCriFkTZU9Q16Vgk61tDs=
+		kUNkzdcUT6EeRbw5PKnTbHcnXzU=
 		</data>
 		<key>SHKReportingDisabledPopupVC.storyboardc/Info.plist</key>
 		<data>
@@ -178,11 +178,11 @@
 		</data>
 		<key>SHKReportingDisabledPopupVC.storyboardc/SHKReportingDisabledPopupVC.nib</key>
 		<data>
-		CjWdLigfsIVGJ7s9nT27LueToPY=
+		58yHk5ZCY+VC/xBIUfEJIysc1/4=
 		</data>
 		<key>SHKReportingDisabledPopupVC.storyboardc/pu0-b3-3yh-view-rZD-dD-p7d.nib</key>
 		<data>
-		n3RdIeOn500kye2ILKjxOo3CWTs=
+		z9p0qwJVKutQALLBVvPXR192Ep4=
 		</data>
 		<key>SHKScreenshotVC.storyboardc/Info.plist</key>
 		<data>
@@ -190,11 +190,11 @@
 		</data>
 		<key>SHKScreenshotVC.storyboardc/ScreenshotID.nib</key>
 		<data>
-		KbWO7NcbBSGzmYVXSu3TpPjsXR4=
+		mS32RdjASGPoOUbgoBsu1njFa30=
 		</data>
 		<key>SHKScreenshotVC.storyboardc/x0n-cR-uDu-view-Jlv-bX-B75.nib</key>
 		<data>
-		c/1e2lYrv5XuO1EvE+uWj5RfOoE=
+		WxcGteS9AMKBQa0+YHdOvUOG+QI=
 		</data>
 		<key>Shake.json</key>
 		<data>
@@ -282,7 +282,7 @@
 		</dict>
 		<key>upload-symbols.sh</key>
 		<data>
-		B7u1952wG8T+47H9nEzgkmVTAak=
+		6Gmw7A3CeCjzRWjvCZhQ2OmugiE=
 		</data>
 		<key>zh-Hans.lproj/Localizable.strings</key>
 		<dict>
@@ -414,7 +414,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qJSMJ3MaM9D7JytDpV3Cx7ENo6RZeq0sfjKxFDVNn7o=
+			jSER4mIVYO7Y67G7nGqgVK2kewTLccqh3UCjm6x4z2E=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -540,14 +540,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/AWDmI9HG9uNO1vqMauf7EOisdss+wKhB6NvPaxNlE=
+			lSWw30Nfz813FngopQ8dWr+6VzB6tRCO0lNns5kg2nM=
 			</data>
 		</dict>
 		<key>SHKAlertVC.storyboardc/Sbx-N3-edu-view-CTk-h5-fo7.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YRsyypJagm1QLvgK6/IVnKimkQqiytjl6lWHF20zWMI=
+			CtAoLOfIDOyuU6qPTuWDZUQa3AUupKr9lRwpfEf3ptE=
 			</data>
 		</dict>
 		<key>SHKInspectBugStoryboard.storyboardc/Info.plist</key>
@@ -561,14 +561,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z3osGDvSXsN0wF8t6yy7pdly2phs08ZSfq5QXSiUveQ=
+			ZDiZkNTpL4HhVUDW39wkn3ISFHMKLg6KOUyoh0cO7Oo=
 			</data>
 		</dict>
 		<key>SHKInspectBugStoryboard.storyboardc/niA-iC-r0S-view-OYS-6A-hUU.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RgKJ9c438Ok60B2Hng+SOjvQ6ib08lGmdPyYXS3v4Lw=
+			VmQO54rkNzJDzDTgFXwWuZYfQgHc7lYwtSkCNZIJdRU=
 			</data>
 		</dict>
 		<key>SHKReportComposeStoryboard.storyboardc/Info.plist</key>
@@ -582,14 +582,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EtUAolQt1ZURFvsXdk3xAZaB/jAP/nctjiranKZ/DUM=
+			78csFaJCQZx70WB+8g3vNi6gBDCWnnSNLSM+G+rO5m8=
 			</data>
 		</dict>
 		<key>SHKReportComposeStoryboard.storyboardc/WZs-Rq-UvM-view-dqD-j9-Zwh.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGYfgtPkCK19hs3uHxzabMoYcKEv8u3wMCovNnCdMpw=
+			JqZuFUmRiQO8fUjcHHnd7rp96xf8C9wvgqt0Vngssqc=
 			</data>
 		</dict>
 		<key>SHKReportingDisabledPopupVC.storyboardc/Info.plist</key>
@@ -603,14 +603,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hrkczv0nria2MODMRtnJSH8CXw52gSVF+ybwgujewQI=
+			u27Mjik8qq3TpRJE9MRRzY+nmdPrZkvjRrznjwfOa6g=
 			</data>
 		</dict>
 		<key>SHKReportingDisabledPopupVC.storyboardc/pu0-b3-3yh-view-rZD-dD-p7d.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BWaS93BfkDiDiTo2ySAmBhinTki5l0u/3aA4UiTx7KI=
+			9F1AMYLInkXtqFwVyZU/G1e68lt+hfib8vkJ13pmyhQ=
 			</data>
 		</dict>
 		<key>SHKScreenshotVC.storyboardc/Info.plist</key>
@@ -624,14 +624,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eNa68VzUMAJeGVii5jac9olsWFuznYXuIyONHxhEQX8=
+			E6U/LD2YabzuOp/KXgO+jqIHnJp46sJNaxdfnx+u/UQ=
 			</data>
 		</dict>
 		<key>SHKScreenshotVC.storyboardc/x0n-cR-uDu-view-Jlv-bX-B75.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C15T2MIqgcJ2RKr83RvXZzcNRfSzRSK+dwh/dmRQddo=
+			BB9cMqMfXCO7fjvOWrTjDWWXZdi5ymeDagNcb3UsF/Q=
 			</data>
 		</dict>
 		<key>Shake.json</key>
@@ -731,7 +731,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OpVU3e7Al/BMQoFst1qHclG/2o+Gpt5BIsogPMh80bI=
+			uMVfcb/3byQtQ/GCOsoUcocjw48Nn4dVJ/56tvB54dI=
 			</data>
 		</dict>
 		<key>zh-Hans.lproj/Localizable.strings</key>
